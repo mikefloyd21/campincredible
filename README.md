@@ -1,2 +1,2 @@
 # campincredible
-Camp Planning and Reservations
+Camp Research, Planning, and Reservations
